@@ -13,7 +13,7 @@ for i = 1,100 do
    print("Script feito por Harlen No Discord")
 end
 
-wait(1)
+wait(3)
 
 if game.Players.LocalPlayer.PlayerGui.MainGUI:FindFirstChild("TeleportEffect") then
     game.Players.LocalPlayer.PlayerGui.MainGUI.TeleportEffect:Destroy()
